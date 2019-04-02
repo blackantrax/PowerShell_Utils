@@ -1,6 +1,5 @@
 ﻿# PowerShell TP I
 # Nom: Kevin Nelson
-# Prof: Mr Sabri B.
 # Cours: Developpement d'utilitaires de sécurité informatique
 # Collège Bois de Boulogne
 
